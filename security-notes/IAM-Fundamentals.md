@@ -1,8 +1,5 @@
 # IAM Fundamentals
 
-lecture 123, 124, 130, 135, 136 stephane
-leacture 204, 205, 206 zeal 
-
 # IAM Policies
 
 IAM policy defines the **permissions** that a specific entity has in aws 
